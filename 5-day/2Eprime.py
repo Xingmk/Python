@@ -1,3 +1,6 @@
+# 素数 -->  只能被1 和 自身 整除的 大于 1 的整数
+
+
 from math import sqrt
 
 num = int(input('please insert a int:'))
