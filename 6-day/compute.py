@@ -1,3 +1,4 @@
+#  输入M N 计算(M,N)
 
 
 m = int(input('m='))
